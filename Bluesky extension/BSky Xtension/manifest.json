@@ -1,0 +1,16 @@
+{
+	"manifest_version": 2,
+
+	"name": "BlueSky Extension",
+	"description": "An extension to replace the twitter tab",
+	"version": "1.0",
+	"background": {
+		"scripts": ["background.js"]
+	},
+
+	"permissions": ["tabs"],
+	"browser_action": {
+		"default_icon": "Bluesky_Logo.png",
+		"default_title": "Bluesky"
+	}
+}

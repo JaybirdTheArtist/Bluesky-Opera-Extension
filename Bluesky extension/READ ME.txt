@@ -1,0 +1,17 @@
+Hiiiii!
+
+This is a program i made for opera so you can have a hyper link to bluesky! Its the entire extension file so it also works on chrome but im using opera for the instructions :)
+
+All you have to do is
+- Go to your downloads and extract the Bluesky Extension files
+- Then go to your opera browser
+- In the URL bar type "Opera:extensions"
+- Enable developer mode if you havent already
+- Find and click the button that says "Load unpacked"
+- Find your unpacked file and add it (I dont know if i have to say this but, MAKE SURE you use the folder that has the manifest inside)
+Then your done :)
+
+Make sure you have fun with this and if your able to make modifications your more then welcome just credit me please :)
+
+Have fun!
+JaybirdTheArtist / Bluesky, Twitter and Twitch
